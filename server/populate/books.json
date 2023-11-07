@@ -1,0 +1,86 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger"
+    },
+    {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde"
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck"
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut"
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky"
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood"
+    }
+]

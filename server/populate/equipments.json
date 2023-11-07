@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Computer",
+        "type": "Electronic",
+        "amount": 5
+    },
+    {
+        "name": "Printer",
+        "type": "Electronic",
+        "amount": 1
+    },
+    {
+        "name": "Scanner",
+        "type": "Electronic",
+        "amount": 1
+    },
+    {
+        "name": "Projector",
+        "type": "Electronic",
+        "amount": 1
+    },
+    {
+        "name": "Microphone",
+        "type": "Audio",
+        "amount": 2
+    },
+    {
+        "name": "Camera",
+        "type": "Visual",
+        "amount": 2
+    },
+    {
+        "name": "Telephone",
+        "type": "Communication",
+        "amount": 3
+    },
+    {
+        "name": "Laptop",
+        "type": "Electronic",
+        "amount": 4
+    },
+    {
+        "name": "Desktop",
+        "type": "Electronic",
+        "amount": 3
+    },
+    {
+        "name": "Tablet",
+        "type": "Electronic",
+        "amount": 6
+    },
+    {
+        "name": "Mobile",
+        "type": "Electronic",
+        "amount": 8
+    },
+    {
+        "name": "Pinter",
+        "type": "Electronic",
+        "amount": 2
+    },
+    {
+        "name": "TV",
+        "type": "Electronic",
+        "amount": 1
+    },
+    {
+        "name": "Monitor",
+        "type": "Electronic",
+        "amount": 7
+    },
+    {
+        "name": "Phone",
+        "type": "Non-electronic",
+        "amount": 10
+    },
+    {
+        "name": "Table",
+        "type": "Non-electronic",
+        "amount": 15
+    },
+    {
+        "name": "Chair",
+        "type": "Non-electronic",
+        "amount": 20
+    },
+    {
+        "name": "Desk",
+        "type": "Non-electronic",
+        "amount": 12
+    }
+]
